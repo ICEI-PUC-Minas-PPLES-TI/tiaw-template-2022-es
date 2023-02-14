@@ -1,23 +1,31 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: LOCKEY
+title: 
 authors:
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names:
   - name-suffix: Professor
     affiliation: PUC Minas
-  - family-names: Lima Reis
-    given-names: Felipe Augusto 
+    family-names: 
+    given-names: 
   - name-suffix: Professor
     affiliation: PUC Minas
-  - family-names: Barbosa da Fonseca
-    given-names: Gabriel 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Alves Nogueira
-    given-names: Simone 
+    family-names: 
+    given-names: 
 keywords:
-  - Educacional
-  - Segurança na Web
-repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/tiaw-template-2022-es
+  - 
+  - 
+repository-code: 
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2021-12-22
+date-released: 2022-07-14
